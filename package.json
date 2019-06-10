@@ -1,0 +1,21 @@
+{
+  "name": "node_stocker_ticker_prices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "scripts": {
+		"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+	"repository": {
+  "type": "git",
+  "url": "https://github.com/i5dr0id/node-stock-ticker-prices.git"
+},
+  "license": "ISC"
+}
